@@ -14,11 +14,11 @@ function divide(a,b) {
   return a/b
 }
 
-function add1() {
+function inc1() {
   number += 1 
 }
 
-function subtract1() {
+function dec1() {
   number -= 1
 }
 
