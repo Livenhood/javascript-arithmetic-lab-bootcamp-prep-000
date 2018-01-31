@@ -18,6 +18,6 @@ function inc(a) {
   number += 1 
 }
 
-function dec() {
+function dec(a) {
   number -= 1
 }
